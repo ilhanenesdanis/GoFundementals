@@ -1,8 +1,4 @@
-package main
-
-func main() {
-
-}
+package firstapp
 
 const englishHelloPrefix = "Hello "
 const turkish = "Turkish"
